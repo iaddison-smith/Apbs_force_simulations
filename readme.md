@@ -1,1 +1,1 @@
-## Poisson-Boltzmann forces
+## Accurate boundary-integral formulations for the calculation of electrostatic forces with an implicit-solvent model
